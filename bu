@@ -1,0 +1,6 @@
+
+public interface FiguraSolida extends FiguraPiana {
+	double areaDiBase();
+	double areaLaterale();
+	double Volume();
+}
